@@ -14,4 +14,4 @@ O programa inicia no modo "translação". Para
 passar para o modo "rotação", tecle r, para
 voltar para o modo "translação", tecle t.
 
-Obs: Instruções para sistema Linux com OpenGL instalado.
+Obs: Instruções para sistema Linux com GCC e OpenGL instalados.
